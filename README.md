@@ -7,4 +7,4 @@ Our work includes everything from __libraries__ and __frameworks__ to simple hel
 
 ---
 
-Founded by **Maayan Czapnicki**, founder of MSiti
+Founded by Maayan Czapnicki.
